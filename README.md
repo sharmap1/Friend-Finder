@@ -4,7 +4,7 @@ This is a compatibility-based "FriendFinder" application -- basically a dating a
 
 This app uses Express to handle routing and is deployed on Heroku so other users can fill it out.
 
-Live link:
+Live link: https://hidden-everglades-93295.herokuapp.com/
 
 ## Requirements
 
