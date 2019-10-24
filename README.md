@@ -64,3 +64,7 @@ Instructor: Joel Stedman & TA s : Nicklas Aaland, Austin Williams, Katherine Ten
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Copyright
+
+Copyright (c) [2019][prasamsha sharma]
